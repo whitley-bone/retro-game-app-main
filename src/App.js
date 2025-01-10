@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
-import PlaySound from "./Components/PlaySound.js";
+import PlaySound from "./components/PlaySound.js";
 
 function App() {
   // Properties
